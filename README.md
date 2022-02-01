@@ -11,3 +11,17 @@ PHP, MySQL, Javascript etc.
 - 😄 &nbsp; Pronouns: developer, I just love to listen to the song.
 - 💬 &nbsp; Ask me about anything, I am happy to help.
 
+### Projects
+<details>	
+  <summary><b>⚡ Github Stats</b></summary>
+</details>
+
+<details>
+  <summary><b>👩‍💻 &nbsp; Open Source Projects</b></summary>
+</details>
+
+### So, let's meet!                                                                                                                                               You can find me on [Linkedin](https://www.linkedin.com/in/utsavsomaiya)
+-----
+Credits: [Utsav Somaiya](https://github.com/UtsavSomaiya)
+
+Last Edited on: 01/02/2022
