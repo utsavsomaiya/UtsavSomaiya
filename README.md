@@ -28,7 +28,7 @@
 
 <p align="center">
  <a href="https://linkedin.com/in/utsavsomaiya"><img src=https://img.shields.io/badge/-Utsav%20Somaiya-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white></a>
- <a href="mailto:utsavsomaiya4464@gmail.com"><img src=https://img.shields.io/badge/-utsavsomaiya4464@gmail.com-D14836?style=for-the-badge&logo=Gmail&logoColor=white></a>
+ <a href="mailto:utsavsomaiya4464@gmail.com"><img src=https://img.shields.io/badge/-Utsav%20Somaiya-D14836?style=for-the-badge&logo=Gmail&logoColor=white></a>
  <a href="https://www.instagram.com/_.utsavsomaiya._"><img src=https://img.shields.io/badge/-Utsav%20Somaiya-E4405F?style=for-the-badge&logo=Instagram&logoColor=white></a>
  <a href="https://www.facebook.com/utsav.somaiya.3"><img src=https://img.shields.io/badge/-Utsav%20Somaiya-blue?style=for-the-badge&logo=Facebook&logoColor=white></a>
  <a href="https://github.com/UtsavSomaiya"><img src=https://img.shields.io/badge/-Utsav%20Somaiya-black?style=for-the-badge&logo=Github&logoColor=white></a>
