@@ -8,7 +8,7 @@ I spend a good amount of time each day working on [freshbits](https://github.com
 
 ### Writing
 
-If We feel like something could be of use to other people, or perhaps others future self, We tend to write a [blog post]([https://ryangjchandler.co.uk/](https://blog.freshbits.in/)).
+If We feel like something could be of use to other people, or perhaps others future self, We tend to write a [blog post](https://blog.freshbits.in/).
 
 ### Socials
 
