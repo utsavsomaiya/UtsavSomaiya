@@ -12,4 +12,4 @@ If We feel like something could be of use to other people, or perhaps others fut
 
 ### Socials
 
-You can find me on [Twitter](https://twitter.com/SomaiyaUtsav), [Linkedin]([https://facebook.com/utsavsomaiya](https://www.linkedin.com/in/utsavsomaiya/) 
+You can find me on [Twitter](https://twitter.com/SomaiyaUtsav), [Linkedin](https://www.linkedin.com/in/utsavsomaiya/) 
