@@ -1,15 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=9BF7A9&background=FFFFFF00&lines=@utsavsomaiya)](https://git.io/typing-svg)
+👋 Hey there, fellow code adventurer! I'm Utsav Somaiya, a web sorcerer weaving magic with Laravel, Vue.js, Inertia.js, Livewire, Alpine.js, and Tailwind CSS.
 
-My name is Utsav. I'm a Laravel and JavaScript developer from India. I spend most of my time these days working with [Livewire](https://laravel-livewire.com/) and [filament](https://filamentphp.com/), as well as [Tailwind](https://tailwindcss.com/). This is commonly referred to as the "TALL stack".
+### 💻 Crafting Experiences:
+In the digital realm, I'm the architect of delightful user experiences. My toolkit includes:
 
-### Projects
+  - **Laravel:** For building robust and scalable backends that are the backbone of powerful applications.
+  - **Vue.js & Inertia.js:** Weaving frontend wonders with dynamic interfaces that captivate and engage users.
+  - **Livewire:** Bringing applications to life with real-time interactions and a touch of magic.
+  - **Alpine.js:** Elevating user interfaces with lightweight and powerful interactivity.
+  - **Tailwind CSS:** Sculpting designs with precision using utility-first CSS.
 
-I spend a good amount of time each day working on [freshbits](https://github.com/freshbitsweb) projects. This is not open source but this is very helpfull to others Like increase very good quality of logic and other parameters.
+### 🚀 What Propels Me:
+  - **Full Stack Wizardry:** Uniting the realms of frontend and backend, I conjure up seamless, end-to-end solutions.
+  - **Code Poet:** I don't just write code; I compose elegant symphonies that are a joy to read and maintain.
+  - **Problem Enchanter:** Transforming challenges into opportunities, one code spell at a time.
 
-### Writing
+### 🌌 Journey with Me:
+  - **Linkedin:** [Tap me](https://www.linkedin.com/in/utsavsomaiya/)
 
-If We feel like something could be of use to other people, or perhaps others future self, We tend to write a [blog post](https://blog.freshbits.in/).
-
-### Socials
-
-You can find me on [Twitter](https://twitter.com/SomaiyaUtsav), [Linkedin](https://www.linkedin.com/in/utsavsomaiya/) etc..
+Embark on this coding quest with me, and let's create digital wonders that leave a lasting spell on the world! 🧙✨
