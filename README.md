@@ -1,8 +1,8 @@
 <div align="center">
 
 <!--
-  Animated terminal portrait generated from the professional photo used on
-  utsavsomaiya.in. Regenerate with:
+  Animated terminal portrait generated from the current GitHub profile photo.
+  Regenerate with:
   python scripts/prep_photo.py source-photo.png
   python scripts/make_ascii_svg.py
   python scripts/make_info_card.py
