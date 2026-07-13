@@ -1,20 +1,32 @@
-👋 Hey there, fellow code adventurer! I'm Utsav Somaiya, a web sorcerer weaving magic with Laravel, Vue.js, Inertia.js, Livewire, Alpine.js, and Tailwind CSS.
+<div align="center">
 
-### 💻 Crafting Experiences:
-In the digital realm, I'm the architect of delightful user experiences. My toolkit includes:
+<!--
+  Animated terminal portrait generated from the professional photo used on
+  utsavsomaiya.in. Regenerate with:
+  python scripts/prep_photo.py source-photo.png
+  python scripts/make_ascii_svg.py
+  python scripts/make_info_card.py
+-->
+<table>
+<tr>
+<td valign="top"><img src="./utsav-ascii.svg" width="370" alt="Utsav Somaiya — animated terminal portrait" /></td>
+<td valign="top"><img src="./info-card.svg" width="490" alt="Utsav Somaiya — work, stack, and highlights" /></td>
+</tr>
+</table>
 
-  - **Laravel:** For building robust and scalable backends that are the backbone of powerful applications.
-  - **Vue.js & Inertia.js:** Weaving frontend wonders with dynamic interfaces that captivate and engage users.
-  - **Livewire:** Bringing applications to life with real-time interactions and a touch of magic.
-  - **Alpine.js:** Elevating user interfaces with lightweight and powerful interactivity.
-  - **Tailwind CSS:** Sculpting designs with precision using utility-first CSS.
+## Utsav Somaiya
 
-### 🚀 What Propels Me:
-  - **Full Stack Wizardry:** Uniting the realms of frontend and backend, I conjure up seamless, end-to-end solutions.
-  - **Code Poet:** I don't just write code; I compose elegant symphonies that are a joy to read and maintain.
-  - **Problem Enchanter:** Transforming challenges into opportunities, one code spell at a time.
+**Product & Technology Consultant · Laravel Builder · Practical AI**
 
-### 🌌 Journey with Me:
-  - **Linkedin:** [Tap me](https://www.linkedin.com/in/utsavsomaiya/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-utsavsomaiya.in-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://utsavsomaiya.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-utsavsomaiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utsavsomaiya/)
+[![X](https://img.shields.io/badge/X-SomaiyaUtsav-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SomaiyaUtsav)
+[![Instagram](https://img.shields.io/badge/Instagram-_.utsavsomaiya._-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_.utsavsomaiya._/)
+[![Email](https://img.shields.io/badge/Email-hello@utsavsomaiya.in-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@utsavsomaiya.in)
 
-Embark on this coding quest with me, and let's create digital wonders that leave a lasting spell on the world! 🧙✨
+<br>
+
+<!-- Refreshed daily by .github/workflows/update-profile-art.yml -->
+<img src="./contrib-heatmap.svg" width="860" alt="Utsav's GitHub contribution graph — refreshed daily" />
+
+</div>
