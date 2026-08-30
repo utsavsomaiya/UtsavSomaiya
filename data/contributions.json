@@ -1,22 +1,22 @@
 {
   "username": "utsavsomaiya",
-  "generated_at": "2026-08-29T12:42:38Z",
+  "generated_at": "2026-08-30T11:56:59Z",
   "range": {
-    "start": "2025-08-24",
-    "end": "2026-08-29"
+    "start": "2025-08-31",
+    "end": "2026-08-30"
   },
-  "total_contributions": 2460,
-  "active_days": 316,
-  "avg_per_active_day": 7.8,
+  "total_contributions": 2453,
+  "active_days": 311,
+  "avg_per_active_day": 7.9,
   "current_streak": {
-    "length": 61,
+    "length": 62,
     "start": "2026-06-30",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "longest_streak": {
-    "length": 61,
+    "length": 62,
     "start": "2026-06-30",
-    "end": "2026-08-29"
+    "end": "2026-08-30"
   },
   "best_day": {
     "date": "2026-06-09",
@@ -25,7 +25,7 @@
   "monthly": [
     {
       "month": "2025-08",
-      "total": 26
+      "total": 9
     },
     {
       "month": "2025-09",
@@ -73,38 +73,10 @@
     },
     {
       "month": "2026-08",
-      "total": 366
+      "total": 376
     }
   ],
   "days": [
-    {
-      "date": "2025-08-24",
-      "count": 6
-    },
-    {
-      "date": "2025-08-25",
-      "count": 0
-    },
-    {
-      "date": "2025-08-26",
-      "count": 3
-    },
-    {
-      "date": "2025-08-27",
-      "count": 1
-    },
-    {
-      "date": "2025-08-28",
-      "count": 1
-    },
-    {
-      "date": "2025-08-29",
-      "count": 5
-    },
-    {
-      "date": "2025-08-30",
-      "count": 1
-    },
     {
       "date": "2025-08-31",
       "count": 9
@@ -1559,7 +1531,11 @@
     },
     {
       "date": "2026-08-29",
-      "count": 27
+      "count": 29
+    },
+    {
+      "date": "2026-08-30",
+      "count": 8
     }
   ]
 }
